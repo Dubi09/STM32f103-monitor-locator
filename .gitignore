@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# cubeIDE generated files
+monitor_locator_stm/.settings
+monitor_locator_stm/Debug
+monitor_locator_stm/Release
